@@ -137,7 +137,7 @@ verify_components() {
 # Main menu
 while true; do
     clear
-    figlet -f big "HadoopEasy-Setup"
+    figlet -f big "HadoopWizard"
     echo "Creator: KIRAN KUMAR K"
     echo "Apache Hadoop Installation and Configuration Menu"
     echo "1. Install Java"
