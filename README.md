@@ -1,4 +1,3 @@
-
 # HadoopWizard
 
 ![Hadoop](https://img.shields.io/badge/Apache-Hadoop-orange) ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Bash](https://img.shields.io/badge/Shell-Bash-lightgrey)
