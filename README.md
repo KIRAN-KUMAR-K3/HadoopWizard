@@ -89,4 +89,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## License
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for more details.
-
